@@ -8,7 +8,7 @@ const userSchema = new Schema({
     required: true,
     trim: true
   },
-  occupationn: {
+  occupation: {
     type:String,
     required: true,
     trim: true
